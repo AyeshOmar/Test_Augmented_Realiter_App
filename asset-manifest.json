@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Test_Augmented_Realiter_App/static/css/main.f72c43d2.css",
+    "main.js": "/Test_Augmented_Realiter_App/static/js/main.3ede5fc1.js",
+    "index.html": "/Test_Augmented_Realiter_App/index.html",
+    "main.f72c43d2.css.map": "/Test_Augmented_Realiter_App/static/css/main.f72c43d2.css.map",
+    "main.3ede5fc1.js.map": "/Test_Augmented_Realiter_App/static/js/main.3ede5fc1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f72c43d2.css",
+    "static/js/main.3ede5fc1.js"
+  ]
+}
